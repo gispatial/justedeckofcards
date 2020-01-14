@@ -1,6 +1,5 @@
 # justedeckofcards
- test assessmentfor justED
-A simple implementation of a deck of playing cards with nodejs.
+ test assessment for justED, a simple implementation of a deck of playing cards with nodejs.
 
 ## API
 
